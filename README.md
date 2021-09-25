@@ -1,6 +1,6 @@
 ![](https://bestanimations.com/Nature/Flora/Roses/animated-red-rose-gif15.gif)
 
-hi, i'm ella&nbsp;&nbsp;🌱
+hi, i'm ella!
 
 i'm a fullstack software engineer based in philadelphia&nbsp;&nbsp;🛎
 
