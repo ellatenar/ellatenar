@@ -4,7 +4,7 @@ hi, i'm ella!
 
 i'm a fullstack software engineer based in philadelphia&nbsp;&nbsp;🛎
 
-i've been coding in some form or another for the past decade, first with [ChucK](https://chuck.cs.princeton.edu/), Max/MSP and Python, and since 2021 with fullstack Javascript.
+i code in python and javascript, and do some creative coding with tidal cycles.
 
 i'm passionate about food, regenerative land use, music, education, and transformative justice.
 
