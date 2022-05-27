@@ -4,11 +4,7 @@ hi, i'm ella!
 
 i'm a fullstack software engineer based in philadelphia&nbsp;&nbsp;🛎
 
-i code in python and javascript, and do some creative coding with tidal cycles.
-
-i'm passionate about food, regenerative land use, music, education, and transformative justice.
-
-welcome to the homepage for my open-source software contributions :)
+i code in python and JS/TS, and do some creative coding with tidal cycles.
 
 ---
 
